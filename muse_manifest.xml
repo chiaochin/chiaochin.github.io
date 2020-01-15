@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chiaochin.com" resolutions="1x" timestamp="1579095348535">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chiaochin.com" resolutions="1x" timestamp="1579097696418">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="light2.css" crc="344476244" ref="light2"/>
-    <file name="body.css" crc="4253727383" ref="body"/>
+    <file name="body.css" crc="163829823" ref="body"/>
     <file name="index.css" crc="200176031" ref="index"/>
-    <file name="confession.css" crc="280691574" ref="confession"/>
+    <file name="confession.css" crc="133504402" ref="confession"/>
     <file name="design-drawing.css" crc="4021702471" ref="design-drawing"/>
     <file name="light.css" crc="341726702" ref="light"/>
     <file name="installation.css" crc="4015642080" ref="installation"/>
@@ -93,9 +93,6 @@
     <file name="s__7897656.jpg" crc="3966836841" seo="true" ref="confession">
       <caption webpage="confession" alt=""/>
     </file>
-    <file name="s__7897663.jpg" crc="4130170645" seo="true" ref="confession">
-      <caption webpage="confession" alt=""/>
-    </file>
     <file name="u1018-6.png" crc="346593506" ref="body"/>
     <file name="u1027-6.png" crc="346593506" ref="body"/>
     <file name="u1030-6.png" crc="346593506" ref="body"/>
@@ -134,8 +131,8 @@
   <file name="index.html" crc="352556588" seo="true" mt="1578927781602" redirect="true"/>
   <file name="design-drawing.html" crc="269830157" seo="true" mt="1578938901927" redirect="true"/>
   <file name="installation.html" crc="328018819" seo="true" mt="1579065865749" redirect="true"/>
-  <file name="confession.html" crc="170273075" seo="true" mt="1579066389309" redirect="true"/>
-  <file name="body.html" crc="4003635335" seo="true" mt="1579092250682" redirect="true"/>
+  <file name="confession.html" crc="181148723" seo="true" mt="1579097598644" redirect="true"/>
+  <file name="body.html" crc="4092086952" seo="true" mt="1579097274092" redirect="true"/>
   <file name="light.html" crc="4038779889" seo="true" mt="1579070579845" redirect="true"/>
   <file name="light2.html" crc="3772026545" seo="true" mt="1579093169215" redirect="true"/>
 </manifest>
