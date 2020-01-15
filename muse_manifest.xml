@@ -1,0 +1,141 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chiaochin.com" resolutions="1x" timestamp="1579095348535">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="light2.css" crc="344476244" ref="light2"/>
+    <file name="body.css" crc="4253727383" ref="body"/>
+    <file name="index.css" crc="200176031" ref="index"/>
+    <file name="confession.css" crc="280691574" ref="confession"/>
+    <file name="design-drawing.css" crc="4021702471" ref="design-drawing"/>
+    <file name="light.css" crc="341726702" ref="light"/>
+    <file name="installation.css" crc="4015642080" ref="installation"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:design-drawing:installation:confession:body:light:light2"/>
+    <file name="museutils.js" crc="3803043152" ref="index:design-drawing:installation:confession:body:light:light2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:design-drawing:installation:confession:body:light:light2"/>
+    <file name="museconfig.js" crc="380897831" ref="index:design-drawing:installation:confession:body:light:light2"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:design-drawing:installation:confession:body:light:light2"/>
+    <file name="require.js" crc="4157109226" ref="index:design-drawing:installation:confession:body:light:light2"/>
+  </folder>
+  <folder name="images">
+    <file name="u545-8.png" crc="332966822" ref="index"/>
+    <file name="1.jpg" crc="3894230171" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-2.jpg" crc="216372271" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.jpg" crc="129982458" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-2.jpg" crc="4048304278" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.jpg" crc="3848784876" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-2.jpg" crc="4137288319" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u555-4.png" crc="3879312712" ref="index"/>
+    <file name="4.jpg" crc="3933976491" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4-2.jpg" crc="3856479901" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5.jpg" crc="3812949427" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-2.jpg" crc="3897577684" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s__7962631.jpg" crc="494650965" seo="true" ref="design-drawing">
+      <caption webpage="design-drawing" alt=""/>
+    </file>
+    <file name="s__7962632.jpg" crc="3882782106" seo="true" ref="design-drawing">
+      <caption webpage="design-drawing" alt=""/>
+    </file>
+    <file name="s__7962629.jpg" crc="4117220194" seo="true" ref="design-drawing">
+      <caption webpage="design-drawing" alt=""/>
+    </file>
+    <file name="s__7962664.jpg" crc="71782076" seo="true" ref="design-drawing">
+      <caption webpage="design-drawing" alt=""/>
+    </file>
+    <file name="s__7962663.jpg" crc="42534941" seo="true" ref="design-drawing">
+      <caption webpage="design-drawing" alt=""/>
+    </file>
+    <file name="s__7962659.jpg" crc="4108094626" seo="true" ref="design-drawing">
+      <caption webpage="design-drawing" alt=""/>
+    </file>
+    <file name="s__7962658.jpg" crc="3759203124" seo="true" ref="design-drawing">
+      <caption webpage="design-drawing" alt=""/>
+    </file>
+    <file name="s__7962644.jpg" crc="271610358" seo="true" ref="design-drawing">
+      <caption webpage="design-drawing" alt=""/>
+    </file>
+    <file name="20181113_190614_0132.jpg" crc="259823710" seo="true" ref="installation">
+      <caption webpage="installation" alt=""/>
+    </file>
+    <file name="s__7929943拷貝-crop-u844.jpg" crc="4019715096" seo="true" ref="installation">
+      <caption webpage="installation" alt=""/>
+    </file>
+    <file name="20181113_190616_0133-crop-u824.jpg" crc="377590201" seo="true" ref="installation">
+      <caption webpage="installation" alt=""/>
+    </file>
+    <file name="s__7897643.jpg" crc="4108453006" seo="true" ref="confession">
+      <caption webpage="confession" alt=""/>
+    </file>
+    <file name="s__7897658.jpg" crc="4156975410" seo="true" ref="confession">
+      <caption webpage="confession" alt=""/>
+    </file>
+    <file name="s__7897656.jpg" crc="3966836841" seo="true" ref="confession">
+      <caption webpage="confession" alt=""/>
+    </file>
+    <file name="s__7897663.jpg" crc="4130170645" seo="true" ref="confession">
+      <caption webpage="confession" alt=""/>
+    </file>
+    <file name="u1018-6.png" crc="346593506" ref="body"/>
+    <file name="u1027-6.png" crc="346593506" ref="body"/>
+    <file name="u1030-6.png" crc="346593506" ref="body"/>
+    <file name="u1015-4.png" crc="3798203124" ref="body"/>
+    <file name="dsc_0563-crop-u963.jpg" crc="3853162345" seo="true" ref="body">
+      <caption webpage="body" alt=""/>
+    </file>
+    <file name="dsc_0566.jpg" crc="174420954" seo="true" ref="body">
+      <caption webpage="body" alt=""/>
+    </file>
+    <file name="dsc_0556.jpg" crc="90163337" seo="true" ref="body">
+      <caption webpage="body" alt=""/>
+    </file>
+    <file name="dsc_0554.jpg" crc="4254479360" seo="true" ref="body">
+      <caption webpage="body" alt=""/>
+    </file>
+    <file name="dsc_0557.jpg" crc="3917378598" seo="true" ref="body">
+      <caption webpage="body" alt=""/>
+    </file>
+    <file name="u1251-4.png" crc="25892554" ref="body"/>
+    <file name="u1254-4.png" crc="3768498971" ref="body"/>
+    <file name="20190427_190614_0001.jpg" crc="3876591634" seo="true" ref="light">
+      <caption webpage="light" alt=""/>
+    </file>
+    <file name="20190427_190614_0002.jpg" crc="3964036481" seo="true" ref="light2">
+      <caption webpage="light2" alt=""/>
+    </file>
+    <file name="20190427_190614_00108x5.jpg" crc="157866317" seo="true" ref="light2">
+      <caption webpage="light2" alt=""/>
+    </file>
+    <file name="u1205-4.png" crc="4024013106" ref="light2"/>
+    <file name="20190427_190614_0010-crop-u1227.jpg" crc="261933125" seo="true" ref="light2">
+      <caption webpage="light2" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="352556588" seo="true" mt="1578927781602" redirect="true"/>
+  <file name="design-drawing.html" crc="269830157" seo="true" mt="1578938901927" redirect="true"/>
+  <file name="installation.html" crc="328018819" seo="true" mt="1579065865749" redirect="true"/>
+  <file name="confession.html" crc="170273075" seo="true" mt="1579066389309" redirect="true"/>
+  <file name="body.html" crc="4003635335" seo="true" mt="1579092250682" redirect="true"/>
+  <file name="light.html" crc="4038779889" seo="true" mt="1579070579845" redirect="true"/>
+  <file name="light2.html" crc="3772026545" seo="true" mt="1579093169215" redirect="true"/>
+</manifest>
